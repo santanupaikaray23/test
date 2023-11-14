@@ -1,0 +1,32 @@
+Node Js
+------------
+Async
+Single Thread
+Non Blocking I/O
+Chrome v8
+Machine code
+open source
+
+npm > node package manager
+JSON > Javascript Object Notation
+
+[
+    {
+        name:"Santanu",
+        class:"Node"
+    },
+    {
+        name:"Sidhanta",
+        class:"Angular"
+    }
+]
+
+package.JSON
+>
+
+HTTP: It is a package which help us to create a server.
+
+req > What ever we will send to the server like form/params/queryparams
+res > what sever will respond
+
+COMPLITED 8TH VIDEO
